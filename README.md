@@ -13,11 +13,6 @@ The Cyber Cafe Management System is a project developed for our high school fina
 3. [Technologies Used](#technologies-used)
 4. [Installation](#installation)
 5. [Usage](#usage)
-6. [Project Structure](#project-structure)
-7. [Contributing](#contributing)
-8. [License](#license)
-9. [Contact](#contact)
-
 ---
 
 ## Introduction
@@ -38,7 +33,7 @@ The Cyber Cafe Management System was designed to automate the daily operations o
 
 ## Technologies Used
 
-- **Programming Language**: Python
+- **Programming Language**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 - **Database**: ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flate&logo=mysql&logoColor=white)
 - **IDE**: ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=white)
 - **Libraries**: Internal only (no external libraries used)
